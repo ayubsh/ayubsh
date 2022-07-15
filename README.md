@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am currently student at [ALX](https://www.alxafrica.com), pursuing in their Full Stack Software Engineer program. I have great interest in how software are developed,
+I am currently student at [ALX](https://www.alxafrica.com), pursuing SE in their Full Stack Software Engineer program. I have great interest in how software are developed,
 and experimenting with data structures and applications.
 
 - 📫 How to reach me: ibrahimayubsheikh@gmail.com
