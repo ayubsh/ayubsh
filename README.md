@@ -11,7 +11,7 @@ and experimenting with data structures and applications.
 ![C++](https://img.shields.io/badge/-C++-eee?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-eee?style=for-the-badge&logo=c%2b%2b&logoColor=00599C)
 ![Python](https://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=Python&logoColor=007396)
-![Typesctript](https://img.shields.io/badge/-Python-eee?style=for-the-badge&logo=Typescript&logoColor=007396)
+![Typesctript](https://img.shields.io/badge/-Typesctript-eee?style=for-the-badge&logo=Typescript&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?&style=for-the-badge&logo=JavaScript&logoColor=ddc508)
 ![HTML](https://img.shields.io/badge/-HTML-eee?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-eee?style=for-the-badge&logo=CSS3&logoColor=blue)
